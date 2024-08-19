@@ -1,0 +1,70 @@
+body {
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/Adminphoto3.jpg"); /* Set background image path */
+  background-size: cover; /* Resize image to cover the entire viewport */
+  background-position: center; /* Center the image horizontally and vertically */
+  background-repeat: no-repeat; /* Prevent image repetition */
+  background-blend-mode: darken;
+}
+
+header {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Semi-transparent black background over image */
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3em;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  color: #fff; /* Set text color to white for better visibility over background image */
+}
+
+.hero-text {
+  text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #1b18da;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #222;
+}

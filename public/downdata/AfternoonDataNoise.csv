@@ -1,0 +1,27 @@
+Areas,Mean,Temp.,Humidity,Std. Deviation,Minimum,Maximum
+,,°C,%,,,
+Commercial Area ,53.66,26,83,3.53,48.1,61.3
+African hall,48.95,26,83,5.99,40.6,65.8
+Chancellor hall,57.71,26,83,13.08,39.2,81.9
+Republic Hall,63.54,26,83,11.97,42.2,81.9
+Queen Elizabeth hall,54.84,26,83,4.92,45.6,67
+Independence hall ,56.88,26,83,5.94,45.6,63.2
+Main Administration,54.2,26,83,1.67,52.1,58.4
+Unity Hall,52.88,26,83,3.45,46.4,57.9
+SRC hostel,47.63,26,83,6.04,39.9,58.2
+University hall,53.45,25,75,7.4,45.7,67.8
+College of Science,68.12,28,74,10.38,51.9,81.3
+College of Engineering,64.08,28,74,6.28,54.6,73
+College of Built and Art,61.31,28,74,7.78,48,69.6
+Pharmacy science,64.74,28,74,7.93,51.8,75.1
+College of Agriculture,61.55,27,75,7.45,47.7,71.9
+Institute of Distance Learning,66.85,27,75,10.97,50.2,87.8
+Faculty of Social Science,66.95,27,75,11.97,47.8,79.3
+Brunei,47.95,27,75,,,
+KCCR,74.71,27,75,,,
+Arts Workshops,62.54,27,75,,,
+Opoku Ware II Museum,43.83,27,75,,,
+KNUST Islamic Centre,68.35,27,75,,,
+KSB,45.47,27,75,,,
+FOSS New Block,57.06,27,75,,,
+Faculty of Renewable,53.44,27,75,,,
