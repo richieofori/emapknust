@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url("../images/Adminphoto3.jpg"); /* Set background image path */
+  background-image: url("./images/Adminphoto3.jpg"); /* Set background image path */
   background-size: cover; /* Resize image to cover the entire viewport */
   background-position: center; /* Center the image horizontally and vertically */
   background-repeat: no-repeat; /* Prevent image repetition */
